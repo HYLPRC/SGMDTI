@@ -6,7 +6,7 @@ import pandas as pd
 import networkx as nx
 from collections import Counter, defaultdict
 from scipy.spatial.distance import euclidean
-from DREAMwalk.utils import read_graph
+from HSG import HSG, read_graph, set_seed
 from sklearn.metrics.pairwise import euclidean_distances
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics.pairwise import pairwise_distances
