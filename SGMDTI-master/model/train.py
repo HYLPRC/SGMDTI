@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, f1_score, roc_auc_score, average_precision_score
 from random import randint
 import pandas as pd
-from DREAMwalk.utils import set_seed, trans
+from HSG import HSG, read_graph, set_seed, trans
 from sklearn.model_selection import StratifiedKFold
 import os
 import warnings
