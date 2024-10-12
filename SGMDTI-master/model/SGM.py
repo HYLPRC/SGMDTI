@@ -11,8 +11,7 @@ from tqdm import tqdm
 import parmap
 from collections import defaultdict, Counter
 from time import time
-from DREAMwalk.HeterogeneousSG import HeterogeneousSG
-from DREAMwalk.utils import read_graph, set_seed
+from HSG import HSG, read_graph, set_seed
 import time
 
 def parse_args():
