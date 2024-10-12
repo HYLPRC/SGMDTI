@@ -2,7 +2,7 @@ import os
 from model.SGM import SGM
 from model.train import train
 from model.dataset import dataset
-from model.feature import feature_drug,feature_pro, StorFile
+from model.feature import feature
 
 if __name__ == '__main__':
 
