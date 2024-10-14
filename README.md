@@ -7,7 +7,7 @@ This repository provides a reference implementation of **SGMDTI** as described i
 **SGMDTI: A uniﬁed framework for drug–target interaction prediction by semantic-guided meta-path method**  
 *Haoyuan Li, Jianxin Wang, Haochen Zhao, Kai Zheng, Qichang Zhao*
 
-![Image Alt Text](SGMDTI/SGMDTI-master/Figure/flowchart.jpg)
+![Image Alt Text](SGMDTI-master/Figure/flowchart.jpg)
 
 ## Dependencies
 
