@@ -1,7 +1,5 @@
 # SGMDTI
 
-# MHTAN-DTI
-
 This repository provides a reference implementation of **SGMDTI** as described in the paper:
 
 **SGMDTI: A uniﬁed framework for drug–target interaction prediction by semantic-guided meta-path method**  
